@@ -1,4 +1,4 @@
-# 🤖 EprocAuto — Automação Inteligente do Sistema EPROC
+# EprocAuto — Automação Inteligente do Sistema EPROC
 
 ## 📌 Visão Geral
 
