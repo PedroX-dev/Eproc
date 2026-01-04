@@ -1,7 +1,6 @@
 # EprocAuto — Automação Inteligente do Sistema EPROC
 
 ## 📌 Visão Geral
-
 **EprocAuto** é uma aplicação de automação desenvolvida em **Python**, criada para **otimizar, padronizar e escalar** processos repetitivos executados no sistema **EPROC**, amplamente utilizado em fluxos administrativos e jurídicos.
 
 A aplicação foi projetada para operar de forma **autônoma e confiável**, realizando desde o **login automatizado**, passando pela **navegação inteligente entre telas**, até a **análise, tratamento e extração de dados de documentos processuais**, com mínima intervenção humana.
