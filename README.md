@@ -190,7 +190,7 @@ O projeto continua sendo aprimorado com foco em:
 
 ## 👨‍💻 Autor
 
-**Pedro Henrique Santos**  
+**Pedro Henrique dos Santos Souza Lopes**  
 Estudante de Ciência da Computação  
 Estagiário em Automação de Processos  
 
