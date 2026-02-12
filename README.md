@@ -192,7 +192,7 @@ O projeto continua sendo aprimorado com foco em:
 
 **Pedro Henrique dos Santos Souza Lopes**  
 Estudante de Ciência da Computação  
-Estagiário em Automação de Processos  
+Estagiário e Desenvolvedor Full-Stack 
 
 📌 Projeto desenvolvido com foco em **automação real**, **impacto institucional** e **boas práticas de engenharia de software**.
 
